@@ -1,4 +1,4 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
 * {
     margin: 0px;
@@ -61,9 +61,3 @@ section#redes-sociais img:hover {
     transition: transform .5s, border .5s;
     
 }
-
-
-::-webkit-scrollbar {
-    width: 0px;
-    height: 0px;
- }
